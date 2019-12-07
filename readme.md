@@ -14,9 +14,9 @@ The distribution occurrences of each *Abies* species were obtained from the foll
 
 ## Author(s)
 
-Ziyan Liao 
+Ziyan Liao liaozy@cib.ac.cn
 Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
-email: liaozy@cib.ac.cn
+
 
 ## Citation
 Ziyan Liao, Lin Zhang*, Michael Nobis, Xiaogang Wu, Kaiwen Pan*, Keqing Wang, Mohammed Dakhil, Mingxi Du, Qinli Xiong, Bikram Pandey and Xianglin Tian: Climate change jointly with migration ability affect future range shifts of dominant fir species in Southwest China. Diversity and Distributions. 2019
