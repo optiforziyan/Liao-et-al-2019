@@ -2,7 +2,7 @@
 
 ## Description
 
-The [distribution occurrences](https://github.com/optiforziyan/Liao-et-al-2019/blob/master/Literature%20contains%20Abies%20distribution%20data.md)) of each *Abies* species were obtained from the following four sources:
+The [distribution occurrences](https://github.com/optiforziyan/Liao-et-al-2019/blob/master/Abies_spp_rarefy_rarefied_points.csv) of each *Abies* species were obtained from the following four sources:
 
 (1) the Chinese Virtual Herbarium (CVH, http://www.cvh.ac.cn/);
 
