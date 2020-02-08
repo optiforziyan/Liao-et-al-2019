@@ -20,4 +20,4 @@ Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, Peopl
 
 
 ## Citation
-Liao, Z, Zhang, L, Nobis, MP, et al. Climate change jointly with migration ability affect future range shifts of dominant fir species in Southwest China. Divers Distrib. 2019; 00: 1– 16. https://doi.org/10.1111/ddi.13018
+Liao Z, Zhang L, Nobis MP, et al. Climate change jointly with migration ability affect future range shifts of dominant fir species in Southwest China. Divers Distrib. 2020;26:352–367. https ://doi.org/10.1111/ddi.13018
