@@ -14,7 +14,7 @@ The [distribution occurrences](https://github.com/optiforziyan/Liao-et-al-2019/b
 
 ## Author(s)
 
-Ziyan Liao liaozy@cib.ac.cn
+Ziyan Liao optiforziyan@gmail.com
 
 Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
 
